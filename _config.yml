@@ -1,7 +1,7 @@
 name: hangoverperth
 favicon: null
-layout_spectrum: 0.1316416955087334
-typography_spectrum: 0.4324591963086277
+layout_spectrum: 0.25146
+typography_spectrum: 1
 title: Hangover treatment in Perth
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
+    - '#f2f2f0'
+    - '#61706b'
+    - '#aaa994'
+    - '#463626'
+    - '#13100b'
   brandStrength: 0.18350270483642817
   lightness: 0.25622721994295716
   saturation: 0.06130810268223286
